@@ -1,3 +1,3 @@
 # test-repository
 Learning GitHub is cool!
-Local
+TEST
